@@ -9,5 +9,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifkynp&theme=vue-dark&layout=compact&hide_border=true&count_private=true&show_icons=true)
 
-***Ping me at [arifkynp@gmail.com](mailto:arifkynp@gmail.com?subject=[Business]%20Hi Arifky!) for Business***
+  ***Ping me at [arifkynp@gmail.com](mailto:arifkynp@gmail.com?subject=[Business]%20Hi%20Arifky!) for Business***
 </div>
